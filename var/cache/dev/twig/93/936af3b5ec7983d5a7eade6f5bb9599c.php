@@ -182,6 +182,6 @@ class __TwigTemplate_fb32a0140d964921303757971fdb9dd6 extends Template
 {% block stylesheets %}
 <link rel=\"stylesheet\" href=\"{{asset('css/bootstrap.css')}}\"/>
 <link rel=\"stylesheet\" href=\"{{asset('cssK/Staffindex.css')}}\"/>
-{% endblock %}", "staff/index.html.twig", "C:\\Users\\Laptop\\Semi-Combination\\templates\\staff\\index.html.twig");
+{% endblock %}", "staff/index.html.twig", "C:\\Users\\Laptop\\Website Selling Toy Guns\\templates\\staff\\index.html.twig");
     }
 }

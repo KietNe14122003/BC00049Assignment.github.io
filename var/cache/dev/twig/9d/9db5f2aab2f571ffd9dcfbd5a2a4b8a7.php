@@ -1259,6 +1259,6 @@ section{
    }
 
 }
-", "css/style.css", "C:\\Users\\Laptop\\Semi-Combination\\templates\\css\\style.css");
+", "css/style.css", "C:\\Users\\Laptop\\Website Selling Toy Guns\\templates\\css\\style.css");
     }
 }

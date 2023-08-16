@@ -1828,6 +1828,6 @@ class __TwigTemplate_e13f8db690d332e1a1b9bb0da88bb61f extends Template
         </tbody>
     </table>
 {% endmacro %}
-", "@Doctrine/Collector/db.html.twig", "C:\\Users\\Laptop\\Semi-Combination\\vendor\\doctrine\\doctrine-bundle\\Resources\\views\\Collector\\db.html.twig");
+", "@Doctrine/Collector/db.html.twig", "C:\\Users\\Laptop\\Website Selling Toy Guns\\vendor\\doctrine\\doctrine-bundle\\Resources\\views\\Collector\\db.html.twig");
     }
 }

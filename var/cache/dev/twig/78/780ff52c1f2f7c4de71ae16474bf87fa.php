@@ -95,7 +95,7 @@ class __TwigTemplate_1cb379da4218dcbbe6976e469d70516b extends Template
         // line 7
         echo "<body>
     <header>
-        <h2 class=\"logo\"> SeMi </h2>
+        <h2 class=\"logo\"> NVK </h2>
             <nav class=\"navigation\">
                 
             </nav>
@@ -217,7 +217,7 @@ class __TwigTemplate_1cb379da4218dcbbe6976e469d70516b extends Template
 {% block body %}
 <body>
     <header>
-        <h2 class=\"logo\"> SeMi </h2>
+        <h2 class=\"logo\"> NVK </h2>
             <nav class=\"navigation\">
                 
             </nav>
@@ -261,6 +261,6 @@ class __TwigTemplate_1cb379da4218dcbbe6976e469d70516b extends Template
 {% block stylesheets %}
 <link rel=\"stylesheet\" href=\"{{asset('css/bootstrap.css')}}\"/>
 <link rel=\"stylesheet\" href=\"{{asset('cssK/Login.css')}}\"/>
-{% endblock %}", "security/login.html.twig", "C:\\Users\\Laptop\\Semi-Combination\\templates\\security\\login.html.twig");
+{% endblock %}", "security/login.html.twig", "C:\\Users\\Laptop\\Website Selling Toy Guns\\templates\\security\\login.html.twig");
     }
 }

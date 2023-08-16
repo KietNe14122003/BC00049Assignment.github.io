@@ -314,6 +314,6 @@ class __TwigTemplate_3fea7387f97afa8d22972a310ec54607 extends Template
 </body>
 </html>
 {% endblock %}
-", "category/index.html.twig", "C:\\Users\\Laptop\\Semi-Combination\\templates\\category\\index.html.twig");
+", "category/index.html.twig", "C:\\Users\\Laptop\\Website Selling Toy Guns\\templates\\category\\index.html.twig");
     }
 }

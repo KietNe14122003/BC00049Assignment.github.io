@@ -296,6 +296,6 @@ class __TwigTemplate_e0f13634c3785d6e4fea93538c4cd4c3 extends Template
         document.querySelector(\"form\").reset();
     }
 </script>
-{% endblock %}", "registration/register.html.twig", "C:\\Users\\Laptop\\Semi-Combination\\templates\\registration\\register.html.twig");
+{% endblock %}", "registration/register.html.twig", "C:\\Users\\Laptop\\Website Selling Toy Guns\\templates\\registration\\register.html.twig");
     }
 }

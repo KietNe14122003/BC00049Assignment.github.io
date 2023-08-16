@@ -51,7 +51,7 @@ class __TwigTemplate_42af3dea4c0aa1c8225c9e0f8cccce5d extends Template
     <meta name=\"author\" content=\"\">
     <link href=\"https://fonts.googleapis.com/css?family=Poppins:100,200,300,400,500,600,700,800,900&display=swap\" rel=\"stylesheet\">
 
-    <title>Semi Shop</title>
+    <title>NVK Store</title>
 
     <!-- Bootstrap core CSS -->
     <link href=\"vendor/bootstrap/css/bootstrap.min.css\" rel=\"stylesheet\">
@@ -86,21 +86,21 @@ class __TwigTemplate_42af3dea4c0aa1c8225c9e0f8cccce5d extends Template
     <!-- Banner Starts Here -->
     <div class=\"banner header-text\">
       <div class=\"owl-banner owl-carousel\">
-        <div class=\"banner-item-01\" style=\"\tbackground-image: url(assets/images/price_2.jpg);\">
+        <div class=\"banner-item-01\" style=\"\tbackground-image: url(cssK/price_3.jpg);\">
           <div class=\"text-content\">
-            <h4 style=\"font-size: 2.5rem;\">Children</h4>
+            <h4 style=\"font-size: 2.5rem;\">NVK Store</h4>
             <h2>Are the hope and bright future of society</h2>
           </div>
         </div>
-        <div class=\"banner-item-02\">
+        <div class=\"banner-item-02\" style=\"\tbackground-image: url(cssK/price_2.jpg);\">
           <div class=\"text-content\">
-            <h4 style=\"font-size: 3rem;\">Children</h4>
+            <h4 style=\"font-size: 3rem;\">NVK Store</h4>
             <h2>Are little flames full of talent and creativity</h2>
           </div>
         </div>
-        <div class=\"banner-item-03\" style=\"\tbackground-image: url(assets/images/price_4.jpg\">
+        <div class=\"banner-item-03\" style=\"\tbackground-image: url(cssK/price_1.jpg)\">
           <div class=\"text-content\">
-            <h4 style=\"font-size: 3rem;\">Children</h4>
+            <h4 style=\"font-size: 3rem;\">NVK Store/h4>
             <h2>Are happy and warm gifts</h2>
           </div>
         </div>
@@ -122,10 +122,10 @@ class __TwigTemplate_42af3dea4c0aa1c8225c9e0f8cccce5d extends Template
           </div>
           <div class=\"col-md-4\">
             <div class=\"product-item\">
-              <a href=\"#\"><img src=\"/uploads/product/turtle-64b927f6447d6.jpg\" alt=\"\"></a>
+              <a href=\"#\"><img src=\"/uploads/product/12-64dd18855c796.jpg\" alt=\"\"></a>
               <div class=\"down-content\">
                 <a href=\"#\"><h4>Turtle  </h4></a>
-                <h6>17.00\$</h6>
+                <h6>70.00\$</h6>
                 <p>Supper Cute! Good for people who are Water Living</p>
                 <ul class=\"stars\">
                   <li><i class=\"fa fa-star\"></i></li>
@@ -139,10 +139,10 @@ class __TwigTemplate_42af3dea4c0aa1c8225c9e0f8cccce5d extends Template
           </div>
           <div class=\"col-md-4\">
             <div class=\"product-item\">
-              <a href=\"#\"><img src=\"/uploads/product/snolax-64b7c1db0e7ea.jpg\" alt=\"\"></a>
+              <a href=\"#\"><img src=\"/uploads/product/toyguns02-64dd194aa4dec.webp\" alt=\"\"></a>
               <div class=\"down-content\">
                 <a href=\"#\"><h4>Snorlax</h4></a>
-                <h6>50.00\$</h6>
+                <h6>90.00\$</h6>
                 <p>Supper Cute! Good for people who are Water Living</p>
                 <ul class=\"stars\">
                   <li><i class=\"fa fa-star\"></i></li>
@@ -156,10 +156,10 @@ class __TwigTemplate_42af3dea4c0aa1c8225c9e0f8cccce5d extends Template
           </div>
           <div class=\"col-md-4\">
             <div class=\"product-item\">
-              <a href=\"#\"><img src=\"/uploads/product/gengar-64b7c20401f62.jpg\" alt=\"\"></a>
+              <a href=\"#\"><img src=\"/uploads/product/11-64dd17b691696.webp\" alt=\"\"></a>
               <div class=\"down-content\">
                 <a href=\"#\"><h4>Gengar</h4></a>
-                <h6>8.00\$</h6>
+                <h6>70.00\$</h6>
                 <p>Supper Cute! Good for people who are Water Living</p>
                 <ul class=\"stars\">
                   <li><i class=\"fa fa-star\"></i></li>
@@ -184,10 +184,10 @@ class __TwigTemplate_42af3dea4c0aa1c8225c9e0f8cccce5d extends Template
           <div class=\"col-md-6\">
             <div class=\"left-content\">
               <h4>What's at Semi Shop?</h4>
-              <p>At Semi Shop, we bring you a rich and exciting world of toys. With a wide range of products from cuddly and warm teddy bears, we're sure you'll find something great for all ages. Explore now to experience the joy and growth at Semi Shop!</P>
+              <p>At NVK Shop, we bring you a rich and exciting world of toys. With a wide range of products, you are sure to find great products for all ages. Explore now to experience the fun and growth at NVK Shop!</P>
               <ul class=\"featured-list\">
               <p><b>Ensure</b></p>
-                <li><a>Lovely and soft</a></li>
+                <li><a>Quality</a></li>
                 <li><a>Reliable quality</a></li>
                 <li><a>Various styles and colors</a></li>
                 <li><a>Non-toxic</a></li>
@@ -216,7 +216,7 @@ class __TwigTemplate_42af3dea4c0aa1c8225c9e0f8cccce5d extends Template
               <div class=\"row\">
                 <div class=\"col-md-8\">
                   <h4>See more about <em>unique</em> and <em>innovative</em> products</h4>
-                  <p>Unique and creative toys encourage children to think and be creative in finding new and different approaches. They help children discover and create unique solutions to problems and challenges.</p>
+                  <p>Unique and creative toys encourage children to think and be creative in finding new and different approaches. They help us discover and create unique solutions to problems and challenges.</p>
                 </div>
                 <div class=\"col-md-4\">
                   <a href=\"";
@@ -362,7 +362,7 @@ class __TwigTemplate_42af3dea4c0aa1c8225c9e0f8cccce5d extends Template
     <meta name=\"author\" content=\"\">
     <link href=\"https://fonts.googleapis.com/css?family=Poppins:100,200,300,400,500,600,700,800,900&display=swap\" rel=\"stylesheet\">
 
-    <title>Semi Shop</title>
+    <title>NVK Store</title>
 
     <!-- Bootstrap core CSS -->
     <link href=\"vendor/bootstrap/css/bootstrap.min.css\" rel=\"stylesheet\">
@@ -394,21 +394,21 @@ class __TwigTemplate_42af3dea4c0aa1c8225c9e0f8cccce5d extends Template
     <!-- Banner Starts Here -->
     <div class=\"banner header-text\">
       <div class=\"owl-banner owl-carousel\">
-        <div class=\"banner-item-01\" style=\"\tbackground-image: url(assets/images/price_2.jpg);\">
+        <div class=\"banner-item-01\" style=\"\tbackground-image: url(cssK/price_3.jpg);\">
           <div class=\"text-content\">
-            <h4 style=\"font-size: 2.5rem;\">Children</h4>
+            <h4 style=\"font-size: 2.5rem;\">NVK Store</h4>
             <h2>Are the hope and bright future of society</h2>
           </div>
         </div>
-        <div class=\"banner-item-02\">
+        <div class=\"banner-item-02\" style=\"\tbackground-image: url(cssK/price_2.jpg);\">
           <div class=\"text-content\">
-            <h4 style=\"font-size: 3rem;\">Children</h4>
+            <h4 style=\"font-size: 3rem;\">NVK Store</h4>
             <h2>Are little flames full of talent and creativity</h2>
           </div>
         </div>
-        <div class=\"banner-item-03\" style=\"\tbackground-image: url(assets/images/price_4.jpg\">
+        <div class=\"banner-item-03\" style=\"\tbackground-image: url(cssK/price_1.jpg)\">
           <div class=\"text-content\">
-            <h4 style=\"font-size: 3rem;\">Children</h4>
+            <h4 style=\"font-size: 3rem;\">NVK Store/h4>
             <h2>Are happy and warm gifts</h2>
           </div>
         </div>
@@ -427,10 +427,10 @@ class __TwigTemplate_42af3dea4c0aa1c8225c9e0f8cccce5d extends Template
           </div>
           <div class=\"col-md-4\">
             <div class=\"product-item\">
-              <a href=\"#\"><img src=\"/uploads/product/turtle-64b927f6447d6.jpg\" alt=\"\"></a>
+              <a href=\"#\"><img src=\"/uploads/product/12-64dd18855c796.jpg\" alt=\"\"></a>
               <div class=\"down-content\">
                 <a href=\"#\"><h4>Turtle  </h4></a>
-                <h6>17.00\$</h6>
+                <h6>70.00\$</h6>
                 <p>Supper Cute! Good for people who are Water Living</p>
                 <ul class=\"stars\">
                   <li><i class=\"fa fa-star\"></i></li>
@@ -444,10 +444,10 @@ class __TwigTemplate_42af3dea4c0aa1c8225c9e0f8cccce5d extends Template
           </div>
           <div class=\"col-md-4\">
             <div class=\"product-item\">
-              <a href=\"#\"><img src=\"/uploads/product/snolax-64b7c1db0e7ea.jpg\" alt=\"\"></a>
+              <a href=\"#\"><img src=\"/uploads/product/toyguns02-64dd194aa4dec.webp\" alt=\"\"></a>
               <div class=\"down-content\">
                 <a href=\"#\"><h4>Snorlax</h4></a>
-                <h6>50.00\$</h6>
+                <h6>90.00\$</h6>
                 <p>Supper Cute! Good for people who are Water Living</p>
                 <ul class=\"stars\">
                   <li><i class=\"fa fa-star\"></i></li>
@@ -461,10 +461,10 @@ class __TwigTemplate_42af3dea4c0aa1c8225c9e0f8cccce5d extends Template
           </div>
           <div class=\"col-md-4\">
             <div class=\"product-item\">
-              <a href=\"#\"><img src=\"/uploads/product/gengar-64b7c20401f62.jpg\" alt=\"\"></a>
+              <a href=\"#\"><img src=\"/uploads/product/11-64dd17b691696.webp\" alt=\"\"></a>
               <div class=\"down-content\">
                 <a href=\"#\"><h4>Gengar</h4></a>
-                <h6>8.00\$</h6>
+                <h6>70.00\$</h6>
                 <p>Supper Cute! Good for people who are Water Living</p>
                 <ul class=\"stars\">
                   <li><i class=\"fa fa-star\"></i></li>
@@ -489,10 +489,10 @@ class __TwigTemplate_42af3dea4c0aa1c8225c9e0f8cccce5d extends Template
           <div class=\"col-md-6\">
             <div class=\"left-content\">
               <h4>What's at Semi Shop?</h4>
-              <p>At Semi Shop, we bring you a rich and exciting world of toys. With a wide range of products from cuddly and warm teddy bears, we're sure you'll find something great for all ages. Explore now to experience the joy and growth at Semi Shop!</P>
+              <p>At NVK Shop, we bring you a rich and exciting world of toys. With a wide range of products, you are sure to find great products for all ages. Explore now to experience the fun and growth at NVK Shop!</P>
               <ul class=\"featured-list\">
               <p><b>Ensure</b></p>
-                <li><a>Lovely and soft</a></li>
+                <li><a>Quality</a></li>
                 <li><a>Reliable quality</a></li>
                 <li><a>Various styles and colors</a></li>
                 <li><a>Non-toxic</a></li>
@@ -518,7 +518,7 @@ class __TwigTemplate_42af3dea4c0aa1c8225c9e0f8cccce5d extends Template
               <div class=\"row\">
                 <div class=\"col-md-8\">
                   <h4>See more about <em>unique</em> and <em>innovative</em> products</h4>
-                  <p>Unique and creative toys encourage children to think and be creative in finding new and different approaches. They help children discover and create unique solutions to problems and challenges.</p>
+                  <p>Unique and creative toys encourage children to think and be creative in finding new and different approaches. They help us discover and create unique solutions to problems and challenges.</p>
                 </div>
                 <div class=\"col-md-4\">
                   <a href=\"{{path('app_product')}}\" class=\"filled-button\">Purchase Now</a>
@@ -612,6 +612,6 @@ class __TwigTemplate_42af3dea4c0aa1c8225c9e0f8cccce5d extends Template
 
 </html>
 
-", "information/home.html.twig", "C:\\Users\\Laptop\\Semi-Combination\\templates\\information\\home.html.twig");
+", "information/home.html.twig", "C:\\Users\\Laptop\\Website Selling Toy Guns\\templates\\information\\home.html.twig");
     }
 }

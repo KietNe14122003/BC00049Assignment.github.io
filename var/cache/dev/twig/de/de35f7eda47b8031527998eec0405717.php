@@ -67,7 +67,7 @@ class __TwigTemplate_b10fca2267c5d7f77e9458647d87674a extends Template
     <body>
     <nav class=\"navbar navbar-expand-lg navbar-light bg-light\">
   <div class=\"container-fluid\">
-    <a class=\"navbar-brand\" href=\"#\">Semi</a>
+    <a class=\"navbar-brand\" href=\"#\">NVK</a>
     <button class=\"navbar-toggler\" type=\"button\" data-bs-toggle=\"collapse\" data-bs-target=\"#navbarSupportedContent\" aria-controls=\"navbarSupportedContent\" aria-expanded=\"false\" aria-label=\"Toggle navigation\">
       <span class=\"navbar-toggler-icon\"></span>
     </button>
@@ -300,7 +300,7 @@ class __TwigTemplate_b10fca2267c5d7f77e9458647d87674a extends Template
     <body>
     <nav class=\"navbar navbar-expand-lg navbar-light bg-light\">
   <div class=\"container-fluid\">
-    <a class=\"navbar-brand\" href=\"#\">Semi</a>
+    <a class=\"navbar-brand\" href=\"#\">NVK</a>
     <button class=\"navbar-toggler\" type=\"button\" data-bs-toggle=\"collapse\" data-bs-target=\"#navbarSupportedContent\" aria-controls=\"navbarSupportedContent\" aria-expanded=\"false\" aria-label=\"Toggle navigation\">
       <span class=\"navbar-toggler-icon\"></span>
     </button>
@@ -376,6 +376,6 @@ class __TwigTemplate_b10fca2267c5d7f77e9458647d87674a extends Template
 </body>
 
 
-", "base.html.twig", "C:\\Users\\Laptop\\Semi-Combination\\templates\\base.html.twig");
+", "base.html.twig", "C:\\Users\\Laptop\\Website Selling Toy Guns\\templates\\base.html.twig");
     }
 }

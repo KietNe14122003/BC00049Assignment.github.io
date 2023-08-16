@@ -79,6 +79,6 @@ class __TwigTemplate_c0a888da9fe707784cf66777e0940928 extends Template
     <path d=\"M8 5v4h11l2 -2l-2 -2z\"></path>
     <path d=\"M14 13v4h-8l-2 -2l2 -2z\"></path>
 </svg>
-", "@WebProfiler/Icon/router.svg", "C:\\Users\\Laptop\\Semi-Combination\\vendor\\symfony\\web-profiler-bundle\\Resources\\views\\Icon\\router.svg");
+", "@WebProfiler/Icon/router.svg", "C:\\Users\\Laptop\\Website Selling Toy Guns\\vendor\\symfony\\web-profiler-bundle\\Resources\\views\\Icon\\router.svg");
     }
 }

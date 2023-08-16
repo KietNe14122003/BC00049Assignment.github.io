@@ -353,6 +353,6 @@ class __TwigTemplate_35b2f79525bffc5cbcb2c4ef733d0326 extends Template
 {% include \"footer.html.twig\" %}
 {% block javascripts %}
 {% endblock %}
-", "cart/index.html.twig", "C:\\Users\\Laptop\\Semi-Combination\\templates\\cart\\index.html.twig");
+", "cart/index.html.twig", "C:\\Users\\Laptop\\Website Selling Toy Guns\\templates\\cart\\index.html.twig");
     }
 }

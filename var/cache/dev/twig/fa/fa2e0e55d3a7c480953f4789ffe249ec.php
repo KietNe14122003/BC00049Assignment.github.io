@@ -51,7 +51,7 @@ class __TwigTemplate_a65b982fcbea64f7b1b8d1f311b6632e extends Template
 \t\t\t\t<div class=\"col-xs-12 col-sm-4 col-md-4\">
 \t\t\t\t\t<h5>About us</h5>
 \t\t\t\t\t<ul class=\"\" style=\"color:white;\">
-\t\t\t\t\t<p style=\"color:white\">Semi Company, a seasoned player in the toy industry, takes pride in crafting and distributing top-tier, diverse, and secure toy items for kids. Our dedication lies in offering customers unforgettable moments and genuine worth through distinct playthings. Every creation encapsulates ingenuity and refined design. Our focus is on nurturing children's cognitive faculties, exploration, and inventiveness, as we continually refresh our toy lineup. Quality remains our foremost concern, guaranteeing that each toy delivers happiness while fostering children's growth.
+\t\t\t\t\t<p style=\"color:white\">My website is a website specializing in selling all kinds of jelly bullet toy guns.
 </p></ul>
 \t\t\t\t</div>
 \t\t\t\t<div class=\"col-xs-12 col-sm-4 col-md-4\">
@@ -79,8 +79,6 @@ class __TwigTemplate_a65b982fcbea64f7b1b8d1f311b6632e extends Template
 \t\t\t\t<div class=\"col-xs-12 col-sm-4 col-md-4\">
 \t\t\t\t\t<h5>Other contact information</h5>
 \t\t\t\t\t<ul class=\"list-unstyled quick-links\" style=\"color: white;\">
-\t\t\t\t\t\t<li><i>didmxbc00058@fpt.edu.vn| +070 2845 756</i></li>
-\t\t\t\t\t\t<li><i></i>phuonghtnbc00052@fpt.edu.vn| +091 6198 548</i></li>
 \t\t\t\t\t\t<li><i></i>kietnvbc00049@fpt.edu.vn| +036 5338 322</i></li>
 \t\t\t\t\t</ul>
 \t\t\t\t</div>
@@ -88,8 +86,8 @@ class __TwigTemplate_a65b982fcbea64f7b1b8d1f311b6632e extends Template
 \t\t\t<div class=\"row\">
 \t\t\t\t<div class=\"col-xs-12 col-sm-12 col-md-12 mt-2 mt-sm-5\">
 \t\t\t\t\t<ul class=\"list-unstyled list-inline social text-center\">
-\t\t\t\t\t\t<li class=\"list-inline-item\"><a href=\"https://www.facebook.com/xuandi03\"><i class=\"fa fa-facebook\"></i></a></li>
-\t\t\t\t\t\t<li class=\"list-inline-item\"><a href=\"mailto:didmxbc00058@fpt.edu.vn\" target=\"_blank\"><i class=\"fa fa-envelope\"></i></a></li>
+\t\t\t\t\t\t<li class=\"list-inline-item\"><a href=\"https://www.facebook.com/kid1412dt?mibextid=2JQ9oc7\"><i class=\"fa fa-facebook\"></i></a></li>
+\t\t\t\t\t\t<li class=\"list-inline-item\"><a href=\"mailto:kietnvbc0049@fpt.edu.vn\" target=\"_blank\"><i class=\"fa fa-envelope\"></i></a></li>
 \t\t\t\t\t</ul>
 \t\t\t\t</div>
 \t\t\t\t<hr>
@@ -138,7 +136,7 @@ class __TwigTemplate_a65b982fcbea64f7b1b8d1f311b6632e extends Template
 \t\t\t\t<div class=\"col-xs-12 col-sm-4 col-md-4\">
 \t\t\t\t\t<h5>About us</h5>
 \t\t\t\t\t<ul class=\"\" style=\"color:white;\">
-\t\t\t\t\t<p style=\"color:white\">Semi Company, a seasoned player in the toy industry, takes pride in crafting and distributing top-tier, diverse, and secure toy items for kids. Our dedication lies in offering customers unforgettable moments and genuine worth through distinct playthings. Every creation encapsulates ingenuity and refined design. Our focus is on nurturing children's cognitive faculties, exploration, and inventiveness, as we continually refresh our toy lineup. Quality remains our foremost concern, guaranteeing that each toy delivers happiness while fostering children's growth.
+\t\t\t\t\t<p style=\"color:white\">My website is a website specializing in selling all kinds of jelly bullet toy guns.
 </p></ul>
 \t\t\t\t</div>
 \t\t\t\t<div class=\"col-xs-12 col-sm-4 col-md-4\">
@@ -154,8 +152,6 @@ class __TwigTemplate_a65b982fcbea64f7b1b8d1f311b6632e extends Template
 \t\t\t\t<div class=\"col-xs-12 col-sm-4 col-md-4\">
 \t\t\t\t\t<h5>Other contact information</h5>
 \t\t\t\t\t<ul class=\"list-unstyled quick-links\" style=\"color: white;\">
-\t\t\t\t\t\t<li><i>didmxbc00058@fpt.edu.vn| +070 2845 756</i></li>
-\t\t\t\t\t\t<li><i></i>phuonghtnbc00052@fpt.edu.vn| +091 6198 548</i></li>
 \t\t\t\t\t\t<li><i></i>kietnvbc00049@fpt.edu.vn| +036 5338 322</i></li>
 \t\t\t\t\t</ul>
 \t\t\t\t</div>
@@ -163,8 +159,8 @@ class __TwigTemplate_a65b982fcbea64f7b1b8d1f311b6632e extends Template
 \t\t\t<div class=\"row\">
 \t\t\t\t<div class=\"col-xs-12 col-sm-12 col-md-12 mt-2 mt-sm-5\">
 \t\t\t\t\t<ul class=\"list-unstyled list-inline social text-center\">
-\t\t\t\t\t\t<li class=\"list-inline-item\"><a href=\"https://www.facebook.com/xuandi03\"><i class=\"fa fa-facebook\"></i></a></li>
-\t\t\t\t\t\t<li class=\"list-inline-item\"><a href=\"mailto:didmxbc00058@fpt.edu.vn\" target=\"_blank\"><i class=\"fa fa-envelope\"></i></a></li>
+\t\t\t\t\t\t<li class=\"list-inline-item\"><a href=\"https://www.facebook.com/kid1412dt?mibextid=2JQ9oc7\"><i class=\"fa fa-facebook\"></i></a></li>
+\t\t\t\t\t\t<li class=\"list-inline-item\"><a href=\"mailto:kietnvbc0049@fpt.edu.vn\" target=\"_blank\"><i class=\"fa fa-envelope\"></i></a></li>
 \t\t\t\t\t</ul>
 \t\t\t\t</div>
 \t\t\t\t<hr>
@@ -176,6 +172,6 @@ class __TwigTemplate_a65b982fcbea64f7b1b8d1f311b6632e extends Template
 \t\t\t\t<hr>
 \t\t\t</div>\t
 \t\t</div>
-\t</section>", "footer.html.twig", "C:\\Users\\Laptop\\Semi-Combination\\templates\\footer.html.twig");
+\t</section>", "footer.html.twig", "C:\\Users\\Laptop\\Website Selling Toy Guns\\templates\\footer.html.twig");
     }
 }

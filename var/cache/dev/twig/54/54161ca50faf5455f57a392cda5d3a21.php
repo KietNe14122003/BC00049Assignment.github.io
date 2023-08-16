@@ -73,6 +73,6 @@ class __TwigTemplate_99a089f230b27d12b4b638ff5109bf0a extends Template
     <polyline points=\"7 11 12 16 17 11\"></polyline>
     <line x1=\"12\" y1=\"4\" x2=\"12\" y2=\"16\"></line>
 </svg>
-", "@WebProfiler/Icon/download.svg", "C:\\Users\\Laptop\\Semi-Combination\\vendor\\symfony\\web-profiler-bundle\\Resources\\views\\Icon\\download.svg");
+", "@WebProfiler/Icon/download.svg", "C:\\Users\\Laptop\\Website Selling Toy Guns\\vendor\\symfony\\web-profiler-bundle\\Resources\\views\\Icon\\download.svg");
     }
 }

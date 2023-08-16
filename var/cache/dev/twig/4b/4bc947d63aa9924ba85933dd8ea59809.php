@@ -46,7 +46,7 @@ class __TwigTemplate_2bb20e070091c1508dea946ba73a5d03 extends Template
       <a class=\"navbar-brand\" href=\"";
         // line 4
         echo $this->extensions['Symfony\Bridge\Twig\Extension\RoutingExtension']->getPath("app_home");
-        echo "\"><h2>Semi</h2></a>
+        echo "\"><h2>NVK</h2></a>
       <button class=\"navbar-toggler\" type=\"button\" data-toggle=\"collapse\" data-target=\"#navbarResponsive\" aria-controls=\"navbarResponsive\" aria-expanded=\"false\" aria-label=\"Toggle navigation\">
         <span class=\"navbar-toggler-icon\"></span>
       </button>
@@ -145,7 +145,7 @@ class __TwigTemplate_2bb20e070091c1508dea946ba73a5d03 extends Template
         return new Source("<header class=\"\">
   <nav class=\"navbar navbar-expand-lg\">
     <div class=\"container\">
-      <a class=\"navbar-brand\" href=\"{{path('app_home')}}\"><h2>Semi</h2></a>
+      <a class=\"navbar-brand\" href=\"{{path('app_home')}}\"><h2>NVK</h2></a>
       <button class=\"navbar-toggler\" type=\"button\" data-toggle=\"collapse\" data-target=\"#navbarResponsive\" aria-controls=\"navbarResponsive\" aria-expanded=\"false\" aria-label=\"Toggle navigation\">
         <span class=\"navbar-toggler-icon\"></span>
       </button>
@@ -189,6 +189,6 @@ class __TwigTemplate_2bb20e070091c1508dea946ba73a5d03 extends Template
   document.querySelector('.navbar-toggler').addEventListener('click', function() {
     document.querySelector('.navbar-collapse').classList.toggle('show');
   });
-</script>", "header.html.twig", "C:\\Users\\Laptop\\Semi-Combination\\templates\\header.html.twig");
+</script>", "header.html.twig", "C:\\Users\\Laptop\\Website Selling Toy Guns\\templates\\header.html.twig");
     }
 }

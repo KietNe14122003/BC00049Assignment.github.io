@@ -12,7 +12,7 @@ use Twig\Sandbox\SecurityNotAllowedFunctionError;
 use Twig\Source;
 use Twig\Template;
 
-/* contact/admin/list.html.twig */
+/* contact/Admin/list.html.twig */
 class __TwigTemplate_993dab618e256c5f6f526f9e78e8d31c extends Template
 {
     private $source;
@@ -41,12 +41,12 @@ class __TwigTemplate_993dab618e256c5f6f526f9e78e8d31c extends Template
     {
         $macros = $this->macros;
         $__internal_5a27a8ba21ca79b61932376b2fa922d2 = $this->extensions["Symfony\\Bundle\\WebProfilerBundle\\Twig\\WebProfilerExtension"];
-        $__internal_5a27a8ba21ca79b61932376b2fa922d2->enter($__internal_5a27a8ba21ca79b61932376b2fa922d2_prof = new \Twig\Profiler\Profile($this->getTemplateName(), "template", "contact/admin/list.html.twig"));
+        $__internal_5a27a8ba21ca79b61932376b2fa922d2->enter($__internal_5a27a8ba21ca79b61932376b2fa922d2_prof = new \Twig\Profiler\Profile($this->getTemplateName(), "template", "contact/Admin/list.html.twig"));
 
         $__internal_6f47bbe9983af81f1e7450e9a3e3768f = $this->extensions["Symfony\\Bridge\\Twig\\Extension\\ProfilerExtension"];
-        $__internal_6f47bbe9983af81f1e7450e9a3e3768f->enter($__internal_6f47bbe9983af81f1e7450e9a3e3768f_prof = new \Twig\Profiler\Profile($this->getTemplateName(), "template", "contact/admin/list.html.twig"));
+        $__internal_6f47bbe9983af81f1e7450e9a3e3768f->enter($__internal_6f47bbe9983af81f1e7450e9a3e3768f_prof = new \Twig\Profiler\Profile($this->getTemplateName(), "template", "contact/Admin/list.html.twig"));
 
-        $this->parent = $this->loadTemplate("base.html.twig", "contact/admin/list.html.twig", 1);
+        $this->parent = $this->loadTemplate("base.html.twig", "contact/Admin/list.html.twig", 1);
         $this->parent->display($context, array_merge($this->blocks, $blocks));
         
         $__internal_5a27a8ba21ca79b61932376b2fa922d2->leave($__internal_5a27a8ba21ca79b61932376b2fa922d2_prof);
@@ -213,7 +213,7 @@ class __TwigTemplate_993dab618e256c5f6f526f9e78e8d31c extends Template
 
     public function getTemplateName()
     {
-        return "contact/admin/list.html.twig";
+        return "contact/Admin/list.html.twig";
     }
 
     public function isTraitable()
@@ -324,6 +324,6 @@ class __TwigTemplate_993dab618e256c5f6f526f9e78e8d31c extends Template
 <link rel=\"stylesheet\" href=\"{{asset('cssK/Base.css')}}\"/>
 <link rel=\"stylesheet\" href=\"{{asset('cssK/Contactadminlist.css')}}\"/>
 {% endblock %}
-", "contact/admin/list.html.twig", "C:\\Users\\Laptop\\Semi-Combination\\templates\\contact\\Admin\\list.html.twig");
+", "contact/Admin/list.html.twig", "C:\\Users\\Laptop\\Website Selling Toy Guns\\templates\\contact\\Admin\\list.html.twig");
     }
 }

@@ -267,6 +267,6 @@ class __TwigTemplate_f914f643dd7988064ac20c105fcf3523 extends Template
   </div>
 </body>
 {% include \"footer.html.twig\" %}
-", "profile/show.html.twig", "C:\\Users\\Laptop\\Semi-Combination\\templates\\profile\\show.html.twig");
+", "profile/show.html.twig", "C:\\Users\\Laptop\\Website Selling Toy Guns\\templates\\profile\\show.html.twig");
     }
 }

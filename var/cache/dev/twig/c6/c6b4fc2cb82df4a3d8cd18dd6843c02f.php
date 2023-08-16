@@ -635,6 +635,6 @@ header .navbar {
     }   
 </script>        
 {% endblock %}
-", "profile/edit.html.twig", "C:\\Users\\Laptop\\Semi-Combination\\templates\\profile\\edit.html.twig");
+", "profile/edit.html.twig", "C:\\Users\\Laptop\\Website Selling Toy Guns\\templates\\profile\\edit.html.twig");
     }
 }

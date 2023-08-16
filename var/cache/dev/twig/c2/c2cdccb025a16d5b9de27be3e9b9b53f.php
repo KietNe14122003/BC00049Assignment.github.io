@@ -133,6 +133,6 @@ class __TwigTemplate_bbccd4f0cb863973c771d99ccc552e4a extends Template
       If you have any questions, contact me at 0916198548 or by contact form <3<p style=\"color:#F5F5F5\">please dont ask =))))</p>
     </p>
 {% endblock %}
-", "payment/success.html.twig", "C:\\Users\\Laptop\\Semi-Combination\\templates\\payment\\success.html.twig");
+", "payment/success.html.twig", "C:\\Users\\Laptop\\Website Selling Toy Guns\\templates\\payment\\success.html.twig");
     }
 }

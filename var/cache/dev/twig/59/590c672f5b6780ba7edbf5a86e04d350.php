@@ -345,6 +345,6 @@ class __TwigTemplate_d3810c2a6da96e14c99d8d6c743c3b3e extends Template
     }
   </script>
 {% endblock %}
-", "product/Customer/detail.html.twig", "C:\\Users\\Laptop\\Semi-Combination\\templates\\product\\Customer\\detail.html.twig");
+", "product/Customer/detail.html.twig", "C:\\Users\\Laptop\\Website Selling Toy Guns\\templates\\product\\Customer\\detail.html.twig");
     }
 }

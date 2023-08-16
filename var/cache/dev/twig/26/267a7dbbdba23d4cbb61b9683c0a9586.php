@@ -123,6 +123,6 @@ class __TwigTemplate_1d33cf8bb8719d25c1d51e77ab12eb4b extends Template
         <button type=\"submit\" class=\"btn btn-primary btn-lg\">Checkout</button>
     </form>
 {% endblock %}
-", "payment/index.html.twig", "C:\\Users\\Laptop\\Semi-Combination\\templates\\payment\\index.html.twig");
+", "payment/index.html.twig", "C:\\Users\\Laptop\\Website Selling Toy Guns\\templates\\payment\\index.html.twig");
     }
 }

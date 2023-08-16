@@ -69,6 +69,6 @@ class __TwigTemplate_2dfcdeb095e28abc64d04acbb87dc875 extends Template
     <path stroke=\"none\" d=\"M0 0h24v24H0z\" fill=\"none\"></path>
     <path d=\"M6 6v6a3 3 0 0 0 3 3h10l-4 -4m0 8l4 -4\"></path>
 </svg>
-", "@WebProfiler/Icon/redirect.svg", "C:\\Users\\Laptop\\Semi-Combination\\vendor\\symfony\\web-profiler-bundle\\Resources\\views\\Icon\\redirect.svg");
+", "@WebProfiler/Icon/redirect.svg", "C:\\Users\\Laptop\\Website Selling Toy Guns\\vendor\\symfony\\web-profiler-bundle\\Resources\\views\\Icon\\redirect.svg");
     }
 }

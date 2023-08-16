@@ -330,6 +330,6 @@ class __TwigTemplate_5d92ea6682ed4229fdd61577bef2d045 extends Template
 <link rel=\"stylesheet\" href=\"{{asset('css/bootstrap.css')}}\"/>
 <link rel=\"stylesheet\" href=\"{{asset('cssK/Base.css')}}\"/>
 <link rel=\"stylesheet\" href=\"{{asset('cssK/Stafflist.css')}}\"/>
-{% endblock %}", "staff/list.html.twig", "C:\\Users\\Laptop\\Semi-Combination\\templates\\staff\\list.html.twig");
+{% endblock %}", "staff/list.html.twig", "C:\\Users\\Laptop\\Website Selling Toy Guns\\templates\\staff\\list.html.twig");
     }
 }

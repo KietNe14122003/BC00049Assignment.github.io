@@ -94,7 +94,7 @@ class __TwigTemplate_ff141baca152387eb6cdc425dce3802f extends Template
           <div class=\"col-md-12\">
             <div class=\"text-content\">
               <h4>about us</h4>
-              <h2>Semi company</h2>
+              <h2>COMPANY NVK</h2>
             </div>
           </div>
         </div>
@@ -118,8 +118,8 @@ class __TwigTemplate_ff141baca152387eb6cdc425dce3802f extends Template
           <div class=\"col-md-6\">
             <div class=\"left-content\">
               <h4>Who we are &amp; What we do?</h4>
-              <p>At our toy store, we are a family-owned business driven by a deep passion for bringing joy to the lives of children and adults alike. Our mission is to be the go-to destination for plush stuffed animals and soft toys that inspire imagination, foster creativity, and create lasting memories.<br><br>Beyond providing exceptional toys, we believe in making a positive impact on the world. With every purchase, you join us in supporting charitable initiatives that bring the magic of play to less fortunate children, spreading smiles to those who need it most.
-              <br><br> We are more than just a toy store; we are storytellers, dream-weavers, and happiness ambassadors. Join us on this journey of joy, where cuddles and laughter intertwine, and let our lovable plush toys light up your world with warmth and wonder!</p>
+              <p>At our toy gun store, we are a business with a deep passion for the toys we sell that bring joy to fellow enthusiasts. Our mission is to be the ultimate destination for like-minded people, fostering creativity and creating lasting memories.<br><br> In addition to providing exceptional toys, we believe in making a positive impact on the world. With every purchase, you join us in supporting charitable initiatives that bring the magic of gaming to customers, spreading smiles to those who need it most.
+              <br><br> We're not just a toy gun store; We are storytellers, dream weavers and happy ambassadors. Join us on this fun-filled journey where hugs and laughter intertwine, and let our toys light up your world with warmth and magic! </p>
               <ul class=\"social-icons\">
                 <li><a href=\"#\"><i class=\"fa fa-facebook\"></i></a></li>
                 <li><a href=\"#\"><i class=\"fa fa-instagram\"></i></a></li>
@@ -136,49 +136,10 @@ class __TwigTemplate_ff141baca152387eb6cdc425dce3802f extends Template
         <div class=\"row\">
           <div class=\"col-md-12\">
             <div class=\"section-heading\">
-              <h2>Our Team Members</h2>
+              <h2>My Contact</h2>
             </div>
           </div>
-          <div class=\"col-md-4\">
-            <div class=\"team-member\">
-              <div class=\"thumb-container\">
-                <img src=\"assets/images/di.jpg\" alt=\"\">
-                <div class=\"hover-effect\">
-                  <div class=\"hover-content\">
-                    <ul class=\"social-icons\">
-                      <li><a href=\"https://www.facebook.com/xuandi03\"><i class=\"fa fa-facebook\"></i></a></li>
-                      <li><a href=\"mailto:didmxbc00058@fpt.edu.vn\"><i class=\"fa fa-envelope\"></i></a></li>
-                    </ul>
-                  </div>
-                </div>
-              </div>
-              <div class=\"down-content\">
-                <h4>Dao Mai Xuan Di</h4>
-                <span> </span>
-                <p>    </p>
-              </div>
-            </div>
-          </div>
-          <div class=\"col-md-4\">
-            <div class=\"team-member\">
-              <div class=\"thumb-container\">
-                <img src=\"assets/images/phuong.jpg\" alt=\"\">
-                <div class=\"hover-effect\">
-                  <div class=\"hover-content\">
-                    <ul class=\"social-icons\">
-                      <li><a href=\"https://www.facebook.com/profile.php?id=100070346992357\"><i class=\"fa fa-facebook\"></i></a></li>
-                      <li><a href=\"mailto:phuonghtnbc00052@fpt.edu.vn\"><i class=\"fa fa-envelope\"></i></a></li>
-                    </ul>
-                  </div>
-                </div>
-              </div>
-              <div class=\"down-content\">
-                <h4>Huynh Tran Nam Phuong</h4>
-                <span>  </span>
-                <p> </p>
-              </div>
-            </div>
-          </div>
+        
           <div class=\"col-md-4\">
             <div class=\"team-member\">
               <div class=\"thumb-container\">
@@ -186,19 +147,20 @@ class __TwigTemplate_ff141baca152387eb6cdc425dce3802f extends Template
                 <div class=\"hover-effect\">
                   <div class=\"hover-content\">
                     <ul class=\"social-icons\">
-                      <li><a href=\"https://www.facebook.com/kid1412dt?mibextid=2JQ9oc\"><i class=\"fa fa-facebook\"></i></a></li>
+                      <li><a href=\"https://www.facebook.com/kid1412dt?mibextid=2JQ9oc7\"><i class=\"fa fa-facebook\"></i></a></li>
                       <li><a href=\"mailto:kietnvbc0049@fpt.edu.vn\"><i class=\"fa fa-envelope\"></i></a></li>
                     </ul>
                   </div>
                 </div>
               </div>
               <div class=\"down-content\">
-                <h4> Nguyen Van Kiet </h4>
-                <span> </span>
-                <p>  </p>
+                <h4>Nguyen Van Kiet</h4>
+                <span>  </span>
+                <p> </p>
               </div>
             </div>
           </div>
+       
 
             </div>
           </div>
@@ -207,9 +169,9 @@ class __TwigTemplate_ff141baca152387eb6cdc425dce3802f extends Template
     </div>
     
 ";
-        // line 164
-        $this->loadTemplate("footer.html.twig", "information/about.html.twig", 164)->display($context);
-        // line 165
+        // line 126
+        $this->loadTemplate("footer.html.twig", "information/about.html.twig", 126)->display($context);
+        // line 127
         echo "
 
     <!-- Bootstrap core JavaScript -->
@@ -261,7 +223,7 @@ class __TwigTemplate_ff141baca152387eb6cdc425dce3802f extends Template
 
     public function getDebugInfo()
     {
-        return array (  213 => 165,  211 => 164,  89 => 44,  87 => 43,  43 => 1,);
+        return array (  175 => 127,  173 => 126,  89 => 44,  87 => 43,  43 => 1,);
     }
 
     public function getSourceContext()
@@ -317,7 +279,7 @@ class __TwigTemplate_ff141baca152387eb6cdc425dce3802f extends Template
           <div class=\"col-md-12\">
             <div class=\"text-content\">
               <h4>about us</h4>
-              <h2>Semi company</h2>
+              <h2>COMPANY NVK</h2>
             </div>
           </div>
         </div>
@@ -341,8 +303,8 @@ class __TwigTemplate_ff141baca152387eb6cdc425dce3802f extends Template
           <div class=\"col-md-6\">
             <div class=\"left-content\">
               <h4>Who we are &amp; What we do?</h4>
-              <p>At our toy store, we are a family-owned business driven by a deep passion for bringing joy to the lives of children and adults alike. Our mission is to be the go-to destination for plush stuffed animals and soft toys that inspire imagination, foster creativity, and create lasting memories.<br><br>Beyond providing exceptional toys, we believe in making a positive impact on the world. With every purchase, you join us in supporting charitable initiatives that bring the magic of play to less fortunate children, spreading smiles to those who need it most.
-              <br><br> We are more than just a toy store; we are storytellers, dream-weavers, and happiness ambassadors. Join us on this journey of joy, where cuddles and laughter intertwine, and let our lovable plush toys light up your world with warmth and wonder!</p>
+              <p>At our toy gun store, we are a business with a deep passion for the toys we sell that bring joy to fellow enthusiasts. Our mission is to be the ultimate destination for like-minded people, fostering creativity and creating lasting memories.<br><br> In addition to providing exceptional toys, we believe in making a positive impact on the world. With every purchase, you join us in supporting charitable initiatives that bring the magic of gaming to customers, spreading smiles to those who need it most.
+              <br><br> We're not just a toy gun store; We are storytellers, dream weavers and happy ambassadors. Join us on this fun-filled journey where hugs and laughter intertwine, and let our toys light up your world with warmth and magic! </p>
               <ul class=\"social-icons\">
                 <li><a href=\"#\"><i class=\"fa fa-facebook\"></i></a></li>
                 <li><a href=\"#\"><i class=\"fa fa-instagram\"></i></a></li>
@@ -359,49 +321,10 @@ class __TwigTemplate_ff141baca152387eb6cdc425dce3802f extends Template
         <div class=\"row\">
           <div class=\"col-md-12\">
             <div class=\"section-heading\">
-              <h2>Our Team Members</h2>
+              <h2>My Contact</h2>
             </div>
           </div>
-          <div class=\"col-md-4\">
-            <div class=\"team-member\">
-              <div class=\"thumb-container\">
-                <img src=\"assets/images/di.jpg\" alt=\"\">
-                <div class=\"hover-effect\">
-                  <div class=\"hover-content\">
-                    <ul class=\"social-icons\">
-                      <li><a href=\"https://www.facebook.com/xuandi03\"><i class=\"fa fa-facebook\"></i></a></li>
-                      <li><a href=\"mailto:didmxbc00058@fpt.edu.vn\"><i class=\"fa fa-envelope\"></i></a></li>
-                    </ul>
-                  </div>
-                </div>
-              </div>
-              <div class=\"down-content\">
-                <h4>Dao Mai Xuan Di</h4>
-                <span> </span>
-                <p>    </p>
-              </div>
-            </div>
-          </div>
-          <div class=\"col-md-4\">
-            <div class=\"team-member\">
-              <div class=\"thumb-container\">
-                <img src=\"assets/images/phuong.jpg\" alt=\"\">
-                <div class=\"hover-effect\">
-                  <div class=\"hover-content\">
-                    <ul class=\"social-icons\">
-                      <li><a href=\"https://www.facebook.com/profile.php?id=100070346992357\"><i class=\"fa fa-facebook\"></i></a></li>
-                      <li><a href=\"mailto:phuonghtnbc00052@fpt.edu.vn\"><i class=\"fa fa-envelope\"></i></a></li>
-                    </ul>
-                  </div>
-                </div>
-              </div>
-              <div class=\"down-content\">
-                <h4>Huynh Tran Nam Phuong</h4>
-                <span>  </span>
-                <p> </p>
-              </div>
-            </div>
-          </div>
+        
           <div class=\"col-md-4\">
             <div class=\"team-member\">
               <div class=\"thumb-container\">
@@ -409,19 +332,20 @@ class __TwigTemplate_ff141baca152387eb6cdc425dce3802f extends Template
                 <div class=\"hover-effect\">
                   <div class=\"hover-content\">
                     <ul class=\"social-icons\">
-                      <li><a href=\"https://www.facebook.com/kid1412dt?mibextid=2JQ9oc\"><i class=\"fa fa-facebook\"></i></a></li>
+                      <li><a href=\"https://www.facebook.com/kid1412dt?mibextid=2JQ9oc7\"><i class=\"fa fa-facebook\"></i></a></li>
                       <li><a href=\"mailto:kietnvbc0049@fpt.edu.vn\"><i class=\"fa fa-envelope\"></i></a></li>
                     </ul>
                   </div>
                 </div>
               </div>
               <div class=\"down-content\">
-                <h4> Nguyen Van Kiet </h4>
-                <span> </span>
-                <p>  </p>
+                <h4>Nguyen Van Kiet</h4>
+                <span>  </span>
+                <p> </p>
               </div>
             </div>
           </div>
+       
 
             </div>
           </div>
@@ -460,6 +384,6 @@ class __TwigTemplate_ff141baca152387eb6cdc425dce3802f extends Template
   </body>
 
 </html>
-", "information/about.html.twig", "C:\\Users\\Laptop\\Semi-Combination\\templates\\information\\about.html.twig");
+", "information/about.html.twig", "C:\\Users\\Laptop\\Website Selling Toy Guns\\templates\\information\\about.html.twig");
     }
 }

@@ -187,6 +187,6 @@ class __TwigTemplate_8b9d38e5c89593816dc2db6cfc90ca7d extends Template
         {{ form_end(form) }}
     </div>
 {% endblock %}
-", "user/edit.html.twig", "C:\\Users\\Laptop\\Semi-Combination\\templates\\user\\edit.html.twig");
+", "user/edit.html.twig", "C:\\Users\\Laptop\\Website Selling Toy Guns\\templates\\user\\edit.html.twig");
     }
 }

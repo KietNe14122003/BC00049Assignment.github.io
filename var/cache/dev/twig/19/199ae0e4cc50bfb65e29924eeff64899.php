@@ -143,6 +143,6 @@ class __TwigTemplate_efdc269cab101ab6a99dcd70584f299d extends Template
     <input type=\"submit\" value=\"submit\" class=\"btn btn-primary\"/>
     {{form_end(u_form)}}
 </div>
-{% endblock %}", "user_manager/form.html.twig", "C:\\Users\\Laptop\\Semi-Combination\\templates\\user_manager\\form.html.twig");
+{% endblock %}", "user_manager/form.html.twig", "C:\\Users\\Laptop\\Website Selling Toy Guns\\templates\\user_manager\\form.html.twig");
     }
 }
