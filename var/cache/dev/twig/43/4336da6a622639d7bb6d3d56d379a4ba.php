@@ -89,19 +89,19 @@ class __TwigTemplate_42af3dea4c0aa1c8225c9e0f8cccce5d extends Template
         <div class=\"banner-item-01\" style=\"\tbackground-image: url(cssK/price_3.jpg);\">
           <div class=\"text-content\">
             <h4 style=\"font-size: 2.5rem;\">NVK Store</h4>
-            <h2>Are the hope and bright future of society</h2>
+            <h2>Good product, good price, prestige and quality</h2>
           </div>
         </div>
         <div class=\"banner-item-02\" style=\"\tbackground-image: url(cssK/price_2.jpg);\">
           <div class=\"text-content\">
             <h4 style=\"font-size: 3rem;\">NVK Store</h4>
-            <h2>Are little flames full of talent and creativity</h2>
+            <h2>Good product, good price, prestige and quality</h2>
           </div>
         </div>
         <div class=\"banner-item-03\" style=\"\tbackground-image: url(cssK/price_1.jpg)\">
           <div class=\"text-content\">
             <h4 style=\"font-size: 3rem;\">NVK Store/h4>
-            <h2>Are happy and warm gifts</h2>
+            <h2>Good product, good price, prestige and quality</h2>
           </div>
         </div>
       </div>
@@ -397,19 +397,19 @@ class __TwigTemplate_42af3dea4c0aa1c8225c9e0f8cccce5d extends Template
         <div class=\"banner-item-01\" style=\"\tbackground-image: url(cssK/price_3.jpg);\">
           <div class=\"text-content\">
             <h4 style=\"font-size: 2.5rem;\">NVK Store</h4>
-            <h2>Are the hope and bright future of society</h2>
+            <h2>Good product, good price, prestige and quality</h2>
           </div>
         </div>
         <div class=\"banner-item-02\" style=\"\tbackground-image: url(cssK/price_2.jpg);\">
           <div class=\"text-content\">
             <h4 style=\"font-size: 3rem;\">NVK Store</h4>
-            <h2>Are little flames full of talent and creativity</h2>
+            <h2>Good product, good price, prestige and quality</h2>
           </div>
         </div>
         <div class=\"banner-item-03\" style=\"\tbackground-image: url(cssK/price_1.jpg)\">
           <div class=\"text-content\">
             <h4 style=\"font-size: 3rem;\">NVK Store/h4>
-            <h2>Are happy and warm gifts</h2>
+            <h2>Good product, good price, prestige and quality</h2>
           </div>
         </div>
       </div>

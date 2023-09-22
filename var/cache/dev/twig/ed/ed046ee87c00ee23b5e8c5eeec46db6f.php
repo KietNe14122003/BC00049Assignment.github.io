@@ -108,7 +108,7 @@ class __TwigTemplate_e0f13634c3785d6e4fea93538c4cd4c3 extends Template
         // line 8
         echo "<body>
     <header>
-        <h2 class=\"logo\"> Se Mi </h2>
+        <h2 class=\"logo\">NVK</h2>
             <nav class=\"navigation\">
             <a href=\"";
         // line 12
@@ -254,7 +254,7 @@ class __TwigTemplate_e0f13634c3785d6e4fea93538c4cd4c3 extends Template
 {% block body %}
 <body>
     <header>
-        <h2 class=\"logo\"> Se Mi </h2>
+        <h2 class=\"logo\">NVK</h2>
             <nav class=\"navigation\">
             <a href=\"{{path('app_login')}}\" class=\"btnRegister-popup\">Login</a>
             </nav>
